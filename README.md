@@ -101,7 +101,7 @@
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
   
-  <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
+  <a href="https://ohmyfork.dev" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
   </a>
 
