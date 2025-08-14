@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Phags-pa&weight=900&size=15&letterSpacing=-0.30px&duration=1000&pause=100&background=1C1F3B00&center=true&multiline=true&repeat=false&width=460&height=70&lines=From+breaking+things+apart+to+building+them+better...;%E2%80%8E;A+byte-sized+perpetual+prototype+tinkerer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/shravan20/shravan20/issues/48) by leaving a comment below 💟   </p>
+<p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/zhravan/zhravan/issues/48) by leaving a comment below 💟   </p>
 
 <p align="center">
   <img align="center" width="25%" src="/assets/dino.png" alt="header"/>
@@ -97,15 +97,15 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/shravan20" target="_blank">
-    <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
+  <a href="https://github.com/zhravan" target="_blank">
+    <img src="https://img.shields.io/github/followers/zhravan?label=Follow%20Me&style=social"/>
   </a>
   
   <a href="https://ohmyfork.dev" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=shravan20&label=Profile+Views" alt="profile-views">
+  <img src="https://komarev.com/ghpvc/?username=zhravan&label=Profile+Views" alt="profile-views">
 </p>
 
 
@@ -229,20 +229,20 @@ console.log(`Feel free to contribute`);
 <table style="width:100%" align="center">
   <tr>
     <td>
-      <a href="https://github.com/shravan20/LearningResources">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources&theme=algolia" />
+      <a href="https://github.com/zhravan/LearningResources">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhravan&repo=LearningResources&theme=algolia" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/shravan20/github-readme-quotes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=algolia" />
+      <a href="https://github.com/zhravan/github-readme-quotes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhravan&repo=github-readme-quotes&theme=algolia" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/shravan20/software-installation-guides">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=software-installation-guides&theme=algolia" />
+      <a href="https://github.com/zhravan/software-installation-guides">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhravan&repo=software-installation-guides&theme=algolia" />
       </a>
     </td>
     <td>
@@ -264,13 +264,13 @@ console.log(`Feel free to contribute`);
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/shravan20">
-        <img src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=algolia" />
+      <a href="https://github.com/zhravan">
+        <img src="https://github-readme-stats.vercel.app/api?username=zhravan&show_icons=true&theme=algolia" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/shravan20">
-        <img src="https://github-readme-streak-stats-one-mocha.vercel.app?user=shravan20&theme=algolia" />
+      <a href="https://github.com/zhravan">
+        <img src="https://github-readme-streak-stats-one-mocha.vercel.app?user=zhravan&theme=algolia" />
       </a>
     </td>
   </tr>
@@ -282,7 +282,7 @@ console.log(`Feel free to contribute`);
 #### :lotus_position_man: My Thoughts
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?&theme=algolia&quotesUrl=https://gist.githubusercontent.com/shravan20/3675eec603b22134e185e50e6fa3ef72/raw/911d1ea7f320cfb6d8826ef5ad24ab9975772d3d/quotes.json" alt="my-personal-project"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?&theme=algolia&quotesUrl=https://gist.githubusercontent.com/zhravan/3675eec603b22134e185e50e6fa3ef72/raw/911d1ea7f320cfb6d8826ef5ad24ab9975772d3d/quotes.json" alt="my-personal-project"/>
 </p>
 
 
