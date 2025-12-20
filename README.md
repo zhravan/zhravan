@@ -40,12 +40,12 @@
 <table align="center">
   <tr>
     <td>
-      <a title="Portfolio" href="https://ohmyscript.com/">
+      <a title="Portfolio" href="https://zhravan.dev/">
         <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
       </a>
     </td>
     <td>
-      <a title="DEV.to" href="https://dev.to/zhravan">
+      <a title="dev.to" href="https://dev.to/zhravan">
         <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
       </a>
     </td>
@@ -65,7 +65,7 @@
       </a>
     </td>
     <td>
-      <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/zhravan">
+      <a title="Stack Overflow" href="https://stackoverflow.com/users/11899809/zhravan">
         <img src="https://github.com/user-attachments/assets/b8a777a5-fbb8-4780-a6bc-d23778dfcf11" width="50" height="50" />
       </a>
     </td>
