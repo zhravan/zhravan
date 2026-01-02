@@ -228,30 +228,96 @@ console.log(`Feel free to contribute`);
 
 <table style="width:100%" align="center">
   <tr>
+    <th>Project</th>
+    <th>What is it about?</th>
+  </tr>
+  
+  <tr>
+      <td>
+        <a href="https://github.com/raghavyuva/nixopus">
+          <strong>Nixopus</strong><br/>
+        </a>
+      </td>
+      <td>
+        Open Source Alternative to vercel, heroku, netlify with simplified workflows
+      </td>
+  </tr>
+
+  <tr>
+      <td>
+        <a href="https://github.com/zhravan/nixopus-docker-extensions">
+          <strong>Nixopus Docker Extensions</strong><br/>
+        </a>
+      </td>
+      <td>
+        Voila! Nixopus extension composes extended version!!
+      </td>
+  </tr>
+
+   <tr>
+      <td>
+        <a href="https://github.com/zhravan/zen-mdx-blog">
+          <strong>zen-mdx-blog</strong><br/>
+        </a>
+      </td>
+      <td>
+        minimalistic mdx blog forked from <a href="https://github.com/leerob/next-mdx-blog">leerob/next-mdx-blog</a>
+      </td>
+   </tr>
+
+  <tr>
+      <td>
+        <a href="https://github.com/zhravan/golearn">
+          <strong>golearn</strong><br/>
+        </a>
+      </td>
+      <td>
+        Small exercises to get you used to reading and writing Go code
+      </td>
+  </tr>
+  
+  <tr>
     <td>
       <a href="https://github.com/zhravan/LearningResources">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhravan&repo=LearningResources&theme=algolia" />
+        <strong>LearningResources</strong><br/>
       </a>
     </td>
     <td>
+      Curated learning notes, references, and study material
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/zhravan/github-readme-quotes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhravan&repo=github-readme-quotes&theme=algolia" />
+        <strong>github-readme-quotes</strong><br/>
       </a>
+    </td>
+    <td>
+      Quotes rendered for GitHub READMEs
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/zhravan/software-installation-guides">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhravan&repo=software-installation-guides&theme=algolia" />
+        <strong>software-installation-guides</strong><br/>
       </a>
     </td>
     <td>
+      Practical installation guides for common software
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/idodav/sharkio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oferlis&repo=sharkio&theme=algolia" />
+        <strong>sharkio</strong><br/>
       </a>
+    </td>
+    <td>
+      Network traffic monitoring & analysis tool (contributor)
     </td>
   </tr>
 </table>
+
 
 
 <br>
