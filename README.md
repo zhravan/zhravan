@@ -257,7 +257,7 @@ console.log(`Feel free to contribute`);
    <tr>
       <td>
         <a href="https://github.com/zhravan/zen-mdx-blog">
-          <strong>zen-mdx-blog</strong><br/>
+          <strong>Zen MDX Blog</strong><br/>
         </a>
       </td>
       <td>
@@ -272,14 +272,14 @@ console.log(`Feel free to contribute`);
         </a>
       </td>
       <td>
-        Small exercises to get you used to reading and writing Go code
+        Rustling like learning exercises for Golang
       </td>
   </tr>
   
   <tr>
     <td>
       <a href="https://github.com/zhravan/LearningResources">
-        <strong>LearningResources</strong><br/>
+        <strong>Learning Resources</strong><br/>
       </a>
     </td>
     <td>
@@ -289,7 +289,7 @@ console.log(`Feel free to contribute`);
   <tr>
     <td>
       <a href="https://github.com/zhravan/github-readme-quotes">
-        <strong>github-readme-quotes</strong><br/>
+        <strong>Github Readme Quotes</strong><br/>
       </a>
     </td>
     <td>
@@ -299,7 +299,7 @@ console.log(`Feel free to contribute`);
   <tr>
     <td>
       <a href="https://github.com/zhravan/software-installation-guides">
-        <strong>software-installation-guides</strong><br/>
+        <strong>Software Installation Guides</strong><br/>
       </a>
     </td>
     <td>
