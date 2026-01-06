@@ -325,22 +325,11 @@ console.log(`Feel free to contribute`);
 
 ---
 
-#### :octocat:  My Github Stats
+### Ink & Insights
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/zhravan">
-        <img src="https://github-readme-stats.vercel.app/api?username=zhravan&show_icons=true&theme=algolia" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhravan">
-        <img src="https://github-readme-streak-stats-one-mocha.vercel.app?user=zhravan&theme=algolia" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!--START_SECTION:blog-->
+<!--END_SECTION:blog-->
+
 
 
 ---
