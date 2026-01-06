@@ -1,6 +1,9 @@
 name: Update Blog Posts
 
 on:
+  push:
+    branches:
+      - main   # or master, match your default branch
   schedule:
     - cron: "0 8 * * *"
   workflow_dispatch:
