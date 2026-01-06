@@ -2,9 +2,11 @@ name: Update Blog Posts
 
 on:
   schedule:
-    # Runs daily at 08:00 UTC
     - cron: "0 8 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -15,5 +17,5 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v2
         with:
           feed-url: "https://ohmyscript.com/feed.xml"
-          readme-section: "blog" # section tag name in README
-          max: 5                 # show latest 5 posts
+          readme-section: "blog"
+          max: 5
