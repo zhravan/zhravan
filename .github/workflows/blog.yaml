@@ -15,5 +15,5 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v2
         with:
           feed-url: "https://ohmyscript.com/feed.xml"
-          readme-section: "Ink & Insights" # section tag name in README
+          readme-section: "blog" # section tag name in README
           max: 5                 # show latest 5 posts
