@@ -325,7 +325,7 @@ console.log(`Feel free to contribute`);
 
 ---
 
-#### Ink & Insights
+#### <img src="assets/writing.gif" width="20">  Ink & Insights
 
 <!--START_SECTION:blog-->
 * [On Freelancing: My lessons & learnings](https://ohmyscript.com/blogs/on-freelancing/)
