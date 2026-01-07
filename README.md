@@ -334,8 +334,7 @@ console.log(`Feel free to contribute`);
 * [Inside Nixopus: Managing Database Migrations](https://ohmyscript.com/blogs/inside-nixopus-managing-database-migrations/)
 * [Nixopus: Simplifying VPS Management](https://ohmyscript.com/blogs/nixopus-vps-manager/)
 <!--END_SECTION:blog-->
-
-
+* [more>>>](https://ohmyscript.com/writing/)
 
 ---
 
