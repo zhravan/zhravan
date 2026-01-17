@@ -328,11 +328,11 @@ console.log(`Feel free to contribute`);
 #### <img src="assets/pen.gif" width="20">  Ink & Insights
 
 <!--START_SECTION:blog-->
+* [Lessons from PostgreSQL Incident Story at Nixopus](https://ohmyscript.com/blogs/lessons-from-postgresql-incident-story/)
 * [On Freelancing: My lessons & learnings](https://ohmyscript.com/blogs/on-freelancing/)
 * [On Simplicity](https://ohmyscript.com/musings/on-simplicity/)
 * [Expedition of Async Programming in JavaScript](https://ohmyscript.com/blogs/async-programming-javascript/)
 * [Inside Nixopus: Managing Database Migrations](https://ohmyscript.com/blogs/inside-nixopus-managing-database-migrations/)
-* [Nixopus: Simplifying VPS Management](https://ohmyscript.com/blogs/nixopus-vps-manager/)
 <!--END_SECTION:blog-->
 * [more>>>](https://ohmyscript.com/writing/)
 
