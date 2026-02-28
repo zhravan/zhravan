@@ -254,6 +254,17 @@ console.log(`Feel free to contribute`);
       </td>
   </tr>
 
+  <tr>
+      <td>
+        <a href="https://github.com/zhravan/vecna">
+          <strong>Vecna</strong><br/>
+        </a>
+      </td>
+      <td>
+        Simplifying SSH-ing via minimalistic TUI
+      </td>
+  </tr>
+
    <tr>
       <td>
         <a href="https://github.com/zhravan/zen-mdx-blog">
