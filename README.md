@@ -265,6 +265,17 @@ console.log(`Feel free to contribute`);
       </td>
   </tr>
 
+  <tr>
+      <td>
+        <a href="https://github.com/zhravan/proxydeck">
+          <strong>Proxydeck</strong><br/>
+        </a>
+      </td>
+      <td>
+        Selfhost Proxy UI manager
+      </td>
+  </tr>
+
    <tr>
       <td>
         <a href="https://github.com/zhravan/zen-mdx-blog">
