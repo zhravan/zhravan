@@ -139,7 +139,8 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk" />
       <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" />
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />      
+      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
    </td>
   </tr>
   <tr>
@@ -150,6 +151,8 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
+      <img src="https://img.shields.io/badge/-Elysia-000000?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -165,14 +168,20 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Hosting/SaaS/PaaS</th>
     <td>
+      <img src="https://img.shields.io/badge/-Nixopus-181818?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-      <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Coolify-0EA5E9?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
     </td>
   </tr>
   <tr>
     <th>Automate, Deploy, Platform & Tools</th>
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible" />
       <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" />
       <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
       <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
