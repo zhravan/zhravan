@@ -360,10 +360,10 @@ console.log(`Feel free to contribute`);
 
 <!--START_SECTION:blog-->
 * [In defense of the wired earphones](https://ohmyscript.com/musings/why-wired-over-wireless/)
+* [Welcome to my newsletter](https://ohmyscript.com/newsletter/welcome-to-my-newsletter/)
 * [Lessons from PostgreSQL Incident Story at Nixopus](https://ohmyscript.com/blogs/lessons-from-postgresql-incident-story/)
 * [On Freelancing: My lessons & learnings](https://ohmyscript.com/blogs/on-freelancing/)
 * [On Simplicity](https://ohmyscript.com/musings/on-simplicity/)
-* [Expedition of Async Programming in JavaScript](https://ohmyscript.com/blogs/async-programming-javascript/)
 <!--END_SECTION:blog-->
 * [more>>>](https://ohmyscript.com/writing/)
 
