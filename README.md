@@ -99,16 +99,13 @@
 
 ---
 
-#### ⚡ Technologies
-
-These are some of the technologies and tools that I work with:
+#### ⚡ My Tools of the trade
 
 <table style="width:100%" align="center">
  <tr>
     <th>Programming Languages</th>
     <td> 
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />      
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk" />
       <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" />
@@ -118,8 +115,9 @@ These are some of the technologies and tools that I work with:
    </td>
   </tr>
   <tr>
-    <th>Frameworks/Libraries</th>
+    <th>Frameworks / Libraries / Environments</th>
     <td>
+      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=red" />
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
@@ -173,20 +171,11 @@ These are some of the technologies and tools that I work with:
     <th>Operating Systems</th>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
       <img src="https://img.shields.io/badge/mac%20os-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <th>Markup/Markdown</th>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-    </td>
-  </tr>
-  <tr>
-    <th>Others</th>
+    <th>Hardware</th>
     <td>
       <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
       <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
