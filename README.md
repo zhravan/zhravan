@@ -42,60 +42,29 @@
 
 <br><br>
 
-<table align="center">
-  <tr>
-    <td>
-      <a title="Portfolio" href="https://zhravan.dev/">
-        <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="dev.to" href="https://dev.to/zhravan">
-        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="Medium" href="https://medium.com/@zhravan">
-        <img src="https://github.com/user-attachments/assets/73c991d4-65f1-4aff-88d2-9812b0c4e281" width="45" height="45" />
-      </a>
-    </td>
-    <td>
-      <a title="LinkedIn" href="https://www.linkedin.com/in/zhravan/">
-        <img src="https://img.icons8.com/?size=256&id=60ZV_wYC0BM2&format=png" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="Email" href="mailto:shravan@ohmyscript.com">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="Stack Overflow" href="https://stackoverflow.com/users/11899809/zhravan">
-        <img src="https://github.com/user-attachments/assets/b8a777a5-fbb8-4780-a6bc-d23778dfcf11" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="Twitter" href="https://x.com/zhravan">
-        <img src="https://github.com/user-attachments/assets/49e0ec34-c834-4637-aa57-5fa2bde56a80" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <!--https://cdn4.iconfinder.com/data/icons/35-education-and-school-4/512/08_Calenday-512.png-->
-      <a title="cal.com" href="https://cal.com/zhravan">        
-        <img src="https://3620107743-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpmUOqZjfGqNkiPmqgnMv%2Fuploads%2F9Qaq1hlaTcqKfrc9k4OG%2Fimage.png?alt=media&token=1ffe8530-19ff-4aea-b020-a99cdc224ce1" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="GitLab" href="https://gitlab.com/shravan_20">
-        <img src="https://github.com/user-attachments/assets/bd5a8a66-2e66-42ba-b36f-ace7d487b7bc" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-    <a title="GitLab" href="https://gitlab.com/zhravan">
-        <img src="https://github.com/user-attachments/assets/50bf21b4-0767-46e0-bab6-79299ac15745" width="40" height="40" />
-      </a>
-    </td>
-</table>
+<div align="center">
+    <a href="https://zhravan.dev">website</a>
+      &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/zhravan/">linkedin</a>
+      &nbsp;·&nbsp;
+    <a href="https://x.com/zhravan">x</a>
+      &nbsp;·&nbsp;
+    <a href="https://medium.com/@zhravan">writing</a>
+      &nbsp;·&nbsp;
+    <a href="mailto:shravan@ohmyscript.com">email</a>
+      &nbsp;·&nbsp;
+    <a href="https://dev.to/zhravan">dev.to</a>
+      &nbsp;·&nbsp;
+    <a href="https://stackoverflow.com/users/11899809/zhravan">stackoverflow</a>
+      &nbsp;·&nbsp;
+    <a href="https://cal.com/zhravan">cal.com</a>
+      &nbsp;·&nbsp;
+    <a href="https://gitlab.com/shravan_20">gitlab</a>
+      &nbsp;·&nbsp;
+    <a href="https://gitlab.com/zhravan">gitlab</a>
+</div>
+
+<br>
 
 <p align="center">Note: I use 2 Gitlab Accounts</p>
 
