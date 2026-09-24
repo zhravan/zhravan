@@ -19,15 +19,15 @@
 </p>  
 
 <p align="center">
-  <img src="assets/bannerv1.png" alt="Banner"/>
+  <img src="assets/bannerv1.png" alt="Banner" width="500"/>
   
-  -----
+
   <h6 align="center"> what do i do ?</h6>
   <p align="center">
     tinkering · building · breaking · learning
   </p>
   
-  -----
+
   
 </p>
 
@@ -76,19 +76,7 @@
 
 
 ---
-
-
-<h6 align="center"> 💌 freshly brewed technical content </h6>
-
-
-<p align="center">
-  <a href="https://newsletter.ohmyscript.com/" target="_blank">
-    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxkmbbensmp91vst5vm9.png" alt="subscribe" width="200">
-  </a>
-</p>
-
----
-
+<br>
 <h6 align="center"> ⚡ my tools of the trade </h6>
 
 <table style="width:100%" align="center">
@@ -176,17 +164,13 @@
 
 
 <p align="center">
-  <img src="assets/header.png" alt="header"/>
+  <img src="assets/header.png" alt="header" width="800"/>
 </p>
 
 
 ---
 
 <h6 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> oss projects </h6>  
-
-```javascript
-console.log(`Feel free to contribute`);
-```
 
 <table style="width:100%" align="center">
   <tr>
@@ -331,6 +315,17 @@ console.log(`Feel free to contribute`);
 
 ---
 
+
+<h6 align="center"> 💌 freshly brewed technical content </h6>
+
+
+<p align="center">
+  <a href="https://newsletter.ohmyscript.com/" target="_blank">
+    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxkmbbensmp91vst5vm9.png" alt="subscribe" width="200">
+  </a>
+</p>
+
+---
 <p align="center">
   <h5 align="center"> Staying Motivated </h5>
 </p>
