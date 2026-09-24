@@ -1,22 +1,28 @@
 <samp>
   
 <p align="center">
-  <h1 align="center">Hey there! 👋  </h1>
+  <h3 align="center">Hey there! 👋  </h2>
+  <h6 align="center">Sign my guestbook(https://github.com/zhravan/zhravan/issues/48) by leaving a comment below 💟</h6>
 </p>
 
-<p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/zhravan/zhravan/issues/48) by leaving a comment below 💟   </p>
+---
 
-<p align="center">
-  <img align="center" width="25%" src="/assets/dino.png" alt="header"/>
-  <br>
+<!-- <p align="center">
   <h5 align="center">console.log("Nullus Bugus Maximus");</h5>
-</p>
+</p> -->
+
+
+  <br>
+<p align="center">
+  <h6 align="center"> who am i ?</h6>
+  <p align="center"> Curious Creature / Tinkerer / Engineer  </p>
+</p>  
 
 <p align="center">
   <img src="assets/bannerv1.png" alt="Banner"/>
   
   -----
-  
+  <h6 align="center"> what do i do ?</h6>
   <p align="center">
     tinkering · building · breaking · learning
   </p>
@@ -26,21 +32,8 @@
 </p>
 
 
-<br>
 
-- 🔭 I possess a solid foundation and showcase a robust skill set in `Java`, `JavaScript`, `Python`, and `C++`, complemented by experience in `Node.js`, `Express.js`, `Nest.js`, `Spring`, `Spring Boot`, `Django`, and `Flask` frameworks.
-  
-- 🐾 Exploring every nook and corner of the Data Science domain; I find it quite interesting in terms of problem-solving.
-  
-- 🌱 Gaining developmental experience in Data Science and Microservices.
-  
-- 👯 I’m looking to collaborate and work on new Open Source / Data Science projects.
-  
-- 📫 How to reach me: `shravan@ohmyscript.com`
-  
-- ⚡ Fun fact: Brain is forever a nerd.
-
-<br><br>
+<h6 align="center"> elsewhere </h6>
 
 <div align="center">
     <a href="https://zhravan.dev">website</a>
@@ -68,9 +61,8 @@
 
 <p align="center">Note: I use 2 Gitlab Accounts</p>
 
-<br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/zhravan" target="_blank">
     <img src="https://img.shields.io/github/followers/zhravan?label=Follow%20Me&style=social"/>
   </a>
@@ -80,26 +72,24 @@
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=zhravan&label=Profile+Views" alt="profile-views">
-</p>
+</p> -->
 
-
-
-
-<br>
 
 ---
 
 
-#### 💌 Subscribe to My Weekly Technical Newsletter
+<h6 align="center"> 💌 freshly brewed technical content </h6>
 
 
 <p align="center">
-<a href="https://newsletter.ohmyscript.com/" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxkmbbensmp91vst5vm9.png" alt="subscribe" style="border-radius:10px;"></a>
+  <a href="https://newsletter.ohmyscript.com/" target="_blank">
+    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxkmbbensmp91vst5vm9.png" alt="subscribe" width="200">
+  </a>
 </p>
 
 ---
 
-#### ⚡ My Tools of the trade
+<h6 align="center"> ⚡ my tools of the trade </h6>
 
 <table style="width:100%" align="center">
  <tr>
@@ -192,7 +182,7 @@
 
 ---
 
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My OS Projects  
+<h6 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> oss projects </h6>  
 
 ```javascript
 console.log(`Feel free to contribute`);
@@ -319,7 +309,7 @@ console.log(`Feel free to contribute`);
 
 ---
 
-#### <img src="assets/pen.gif" width="20">  Ink & Insights
+<h6 align="center"> <img src="assets/pen.gif" width="20">  ink & insights </h6>  
 
 <!--START_SECTION:blog-->
 * [ClickOps Is Not a Disaster Plan & Wont Scale](https://ohmyscript.com/blogs/clickops-doesnt-scale/)
@@ -332,7 +322,7 @@ console.log(`Feel free to contribute`);
 
 ---
 
-#### :lotus_position_man: My Thoughts
+<h6 align="center"> :lotus_position_man: bleh, thoughts </h6>  
 
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?&theme=algolia&quotesUrl=https://gist.githubusercontent.com/zhravan/3675eec603b22134e185e50e6fa3ef72/raw/911d1ea7f320cfb6d8826ef5ad24ab9975772d3d/quotes.json" alt="my-personal-project"/>
