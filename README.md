@@ -55,121 +55,28 @@
 
 <h6 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> oss projects </h6>  
 
-<table style="width:100%" align="center">
+<table align="center">
   <tr>
-    <th>Project</th>
-    <th>What is it about?</th>
-  </tr>
-  
-  <tr>
-      <td>
-        <a href="https://github.com/raghavyuva/nixopus">
-          <strong>Nixopus</strong><br/>
-        </a>
-      </td>
-      <td>
-        Open Source Alternative to vercel, heroku, netlify with simplified workflows
-      </td>
-  </tr>
-
-  <tr>
-      <td>
-        <a href="https://github.com/zhravan/nixopus-docker-extensions">
-          <strong>Nixopus Docker Extensions</strong><br/>
-        </a>
-      </td>
-      <td>
-        Voila! Nixopus extension composes extended version!!
-      </td>
-  </tr>
-
-  <tr>
-      <td>
-        <a href="https://github.com/zhravan/vecna">
-          <strong>Vecna</strong><br/>
-        </a>
-      </td>
-      <td>
-        Simplifying SSH-ing via minimalistic TUI
-      </td>
-  </tr>
-
-  <tr>
-      <td>
-        <a href="https://github.com/zhravan/proxydeck">
-          <strong>Proxydeck</strong><br/>
-        </a>
-      </td>
-      <td>
-        Selfhost Proxy UI manager
-      </td>
-  </tr>
-
-   <tr>
-      <td>
-        <a href="https://github.com/zhravan/zen-mdx-blog">
-          <strong>Zen MDX Blog</strong><br/>
-        </a>
-      </td>
-      <td>
-        minimalistic mdx blog forked from <a href="https://github.com/leerob/next-mdx-blog">leerob/next-mdx-blog</a>
-      </td>
-   </tr>
-
-  <tr>
-      <td>
-        <a href="https://github.com/zhravan/golearn">
-          <strong>golearn</strong><br/>
-        </a>
-      </td>
-      <td>
-        Rustling like learning exercises for Golang
-      </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <a href="https://github.com/zhravan/LearningResources">
-        <strong>Learning Resources</strong><br/>
-      </a>
-    </td>
-    <td>
-      Curated learning notes, references, and study material
-    </td>
+    <td align="center"><a href="https://github.com/raghavyuva/nixopus">Nixopus</a></td>
+    <td align="center"><a href="https://zhravan.github.io/jsonp/">JSONP</a></td>
+    <td align="center"><a href="https://github.com/zhravan/vecna">Vecna</a></td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/zhravan/github-readme-quotes">
-        <strong>Github Readme Quotes</strong><br/>
-      </a>
-    </td>
-    <td>
-      Quotes rendered for GitHub READMEs
-    </td>
+    <td align="center"><a href="https://github.com/zhravan/proxydeck">Proxydeck</a></td>
+    <td align="center"><a href="https://github.com/zhravan/zen-mdx-blog">Zen MDX Blog</a></td>
+    <td align="center"><a href="https://github.com/zhravan/golearn">golearn</a></td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/zhravan/software-installation-guides">
-        <strong>Software Installation Guides</strong><br/>
-      </a>
-    </td>
-    <td>
-      Practical installation guides for common software
-    </td>
+    <td align="center"><a href="https://github.com/zhravan/LearningResources">Learning Resources</a></td>
+    <td align="center"><a href="https://github.com/zhravan/github-readme-quotes">GitHub README Quotes</a></td>
+    <td align="center"><a href="https://github.com/zhravan/software-installation-guides">Software Installation Guides</a></td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/idodav/sharkio">
-        <strong>sharkio</strong><br/>
-      </a>
-    </td>
-    <td>
-      Network traffic monitoring & analysis tool (contributor)
-    </td>
+    <td align="center"><a href="https://github.com/idodav/sharkio">sharkio</a></td>
+    <td align="center"><a href="https://ping-yu.zhravann.workers.dev/">ping.yu</a></td>
+    <td align="center"><a href="https://zhravan.github.io/clear-fee/">Clearfee Invoicer</a></td>
   </tr>
 </table>
-
-
 
 <br>
 
