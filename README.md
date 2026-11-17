@@ -11,7 +11,7 @@
   <p align="center"> Curious Creature / Tinkerer / Engineer  </p>
 </p>  
 
---- 
+<!-- --- 
 
 <p align="center">
   
@@ -22,6 +22,7 @@
   </p>
   
 </p>
+-->
 
 ---
 
